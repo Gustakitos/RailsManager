@@ -1,0 +1,8 @@
+Task.create(title: 'Ler os artigos da OneBitCode sobre React', done: false)
+Task.create(title: 'Participar da Semana Super Full Stack (29/04 - 05/05)', done: false)
+Task.create(title: 'Se inscrever no newlestter para receber vagas', done: false)
+Task.create(title: 'Curtir a pagina no Facebook', done: false)
+Task.create(title: 'Se inscrever no canal do Youtube da OneBitCode', done: false)
+Task.create(title: 'Finalizar esse Artigo para melhorar minhas habilidades', done: false)
+Task.create(title: 'Estudar Ruby on Rails', done: true)
+Task.create(title: 'Estudar React', done: true)
